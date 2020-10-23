@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c10e2ca-b83e-41e5-b7b9-753c9c6d46b5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gtsaWUpZdMaGsMkzV2RRDck4I7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\princ\Documents\Coding\CodeSignal\src\Wayfair" />
+      <recent name="C:\Users\princ\Documents\Coding\CodeSignal\src" />
+      <recent name="C:\Users\princ\Documents\Coding\CodeSignal\src\Snowflake" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Blackjack">
+    <configuration name="Blackjack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Freenome.Blackjack" />
+      <module name="Company_Coding_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Freenome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blackjackAcehandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.src.blackjackAcehandling" />
+      <module name="Company_Coding_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dp.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="devTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snowflake.devTes" />
+      <module name="Company_Coding_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snowflake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="howManySentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Citrix.howManySentences" />
+      <module name="Company_Coding_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Citrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="softDevInteg (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snowflake.softDevInteg" />
+      <module name="Company_Coding_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snowflake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Blackjack" />
+        <item itemvalue="Application.blackjackAcehandling" />
+        <item itemvalue="Application.howManySentences" />
+        <item itemvalue="Application.softDevInteg (1)" />
+        <item itemvalue="Application.devTes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c10e2ca-b83e-41e5-b7b9-753c9c6d46b5" name="Default Changelist" comment="" />
+      <created>1598945286810</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598945286810</updated>
+      <workItem from="1598945289537" duration="1360000" />
+      <workItem from="1600663831406" duration="5618000" />
+      <workItem from="1600744668241" duration="5497000" />
+      <workItem from="1600888393217" duration="33000" />
+      <workItem from="1600991229327" duration="13356000" />
+      <workItem from="1601271867737" duration="4822000" />
+      <workItem from="1601882610877" duration="6186000" />
+      <workItem from="1602134292166" duration="3310000" />
+      <workItem from="1602351502363" duration="8190000" />
+      <workItem from="1603136034548" duration="18325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
