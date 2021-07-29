@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c10e2ca-b83e-41e5-b7b9-753c9c6d46b5" name="Default Changelist" comment="" />
+    <list default="true" id="3c10e2ca-b83e-41e5-b7b9-753c9c6d46b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Amazon/dp_primesplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Amazon/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/arrayshift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/bouncingDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/coolFeature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/mean_groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/movingDiagnol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/stepsToReachinAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Codesignal/storetracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coupang/bigram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Coupang/perfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IMC/AddStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NITJ/foodfest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Snowflake/solve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tiktok/gameWin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Unity/graphPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Company_Coding_Programs/Dropbox/src/dropbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Company_Coding_Programs/Dropbox/src/dropbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Company_Coding_Programs/Freenome/Blackjack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Company_Coding_Programs/Freenome/Blackjack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dropbox/src/dropbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dropbox/src/dropbox.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +38,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1gtsaWUpZdMaGsMkzV2RRDck4I7" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -24,6 +51,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -44,13 +72,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Blackjack">
-    <configuration name="Blackjack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Freenome.Blackjack" />
+  <component name="RunManager" selected="Application.arrayshift">
+    <configuration name="arrayshift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codesignal.arrayshift" />
       <module name="Company_Coding_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Freenome.*" />
+          <option name="PATTERN" value="Codesignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="blackjackAcehandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dp.src.blackjackAcehandling" />
+    <configuration name="dropbox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dropbox.src.dropbox" />
       <module name="Company_Coding_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dp.src.*" />
+          <option name="PATTERN" value="Dropbox.src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="devTes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Snowflake.devTes" />
+    <configuration name="solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codesignal.solution" />
       <module name="Company_Coding_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Snowflake.*" />
+          <option name="PATTERN" value="Codesignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="howManySentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Citrix.howManySentences" />
+    <configuration name="storetracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codesignal.storetracker" />
       <module name="Company_Coding_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Citrix.*" />
+          <option name="PATTERN" value="Codesignal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="softDevInteg (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Snowflake.softDevInteg" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Amazon.test" />
       <module name="Company_Coding_Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Snowflake.*" />
+          <option name="PATTERN" value="Amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Blackjack" />
-        <item itemvalue="Application.blackjackAcehandling" />
-        <item itemvalue="Application.howManySentences" />
-        <item itemvalue="Application.softDevInteg (1)" />
-        <item itemvalue="Application.devTes" />
+        <item itemvalue="Application.arrayshift" />
+        <item itemvalue="Application.storetracker" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.dropbox" />
+        <item itemvalue="Application.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -140,10 +168,84 @@
       <workItem from="1602134292166" duration="3310000" />
       <workItem from="1602351502363" duration="8190000" />
       <workItem from="1603136034548" duration="18325000" />
+      <workItem from="1603519697023" duration="2794000" />
+      <workItem from="1604022525269" duration="63000" />
+      <workItem from="1604076416693" duration="714000" />
+      <workItem from="1604107346203" duration="12051000" />
+      <workItem from="1604970969766" duration="5320000" />
+      <workItem from="1605572280903" duration="55000" />
+      <workItem from="1605935443819" duration="8969000" />
+      <workItem from="1606200889239" duration="4743000" />
+      <workItem from="1606286746995" duration="4961000" />
+      <workItem from="1606341589238" duration="1232000" />
+      <workItem from="1606431870048" duration="3317000" />
+      <workItem from="1608573028671" duration="1139000" />
+      <workItem from="1610054532094" duration="819000" />
+      <workItem from="1611986720287" duration="674000" />
+      <workItem from="1626325748520" duration="768000" />
+      <workItem from="1626410371838" duration="1612000" />
+      <workItem from="1626933744628" duration="1736000" />
+      <workItem from="1627099904376" duration="4186000" />
+      <workItem from="1627163602940" duration="1199000" />
+      <workItem from="1627239136651" duration="1754000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NITJ/foodfest.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

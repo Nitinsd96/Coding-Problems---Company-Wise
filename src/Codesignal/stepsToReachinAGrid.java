@@ -1,8 +1,8 @@
 package Codesignal;
 
-public class movingDiagonal {
+public class stepsToReachinAGrid {
     public static void main(String[] args) {
-        movingDiagonal obj = new movingDiagonal();
+        stepsToReachinAGrid obj = new stepsToReachinAGrid();
         System.out.println(obj.movingDiagonal(5,5,2,1,1,2));
     }
     public int movingDiagonal(int n,int m, int x1, int y1, int x2, int y2){
@@ -27,10 +27,10 @@ public class movingDiagonal {
             count2=1+count2;
         int count3 = ways(n,m,x1-1,y1+1,x2, y2,visited);
         if(count3!=Integer.MAX_VALUE)
-            count3=2+count3;
+            count3=1+count3;
         int count4 = ways(n,m,x1+1,y1-1,x2, y2,visited);
         if(count4!=Integer.MAX_VALUE)
-            count4=2+count4;
+            count4=1+count4;
        // visited[x1][y1]=false;
         return Math.min(count1,Math.min(count2,Math.min(count3,count4)));
     }

@@ -6,7 +6,11 @@ public class dropbox {
     public static void main(String[] args) {
         dropbox obj = new dropbox();
         int[][] matrix = {{1,1,0},{1,1,0},{0,0,1}};
+        int[][] matrix1 = {{1,1,0,0},{1,1,1,0},{0,1,1,0},{0,0,0,1}};
+        int[][] matrix2 = {{1,0,0,0,0},{0,1,0,0,0},{0,0,1,0,0},{0,0,0,1,0},{0,0,0,0,1}};
         System.out.println(obj.findCircleNum(matrix));
+        System.out.println(obj.findCircleNum(matrix1));
+        System.out.println(obj.findCircleNum(matrix2));
     }
     public int findCircleNum(int[][] M) {
             visited = new boolean[M.length];
@@ -17,6 +21,7 @@ public class dropbox {
                     if(!visited[i] && M[i][j]==1){
                         traverse(i,M);
                         out = Math.max(out,count);
+                        //out++;
                     }
                 }
             }
